@@ -1,6 +1,6 @@
 # Conectar arduino a Unreal Engine
 
-https://github.com/guidoxmartina/Arduino2Ue5/edit/main/README.md
+https://github.com/guidoxmartina/Arduino2Ue5
 
 # Conectar mando de Wii con arduino para usarlo de giroscopio
 
